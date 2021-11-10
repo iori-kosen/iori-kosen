@@ -1,7 +1,7 @@
 ### 👋 Hi! I'm Iori
 # My Information
 I'm Kochi National College of Technology Students
-I'm studying programming now.
+  I'm studying programming now.
 <p align="left">
     <a href="http://twitter.com/ior_ehime">
         <img height="20" src="https://img.shields.io/twitter/follow/ior_ehime?label=Twitter&logo=twitter&style=flat" />
