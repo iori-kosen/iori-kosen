@@ -2,7 +2,7 @@
 # My Information
 I'm Kochi National College of Technology Students  
 I'm studying programming now.  
-[![My Qiita posts](https://img.shields.io/twitter/follow/ior_ehime)](http://twitter.com/ior_ehime)
+[![Twitter](https://img.shields.io/twitter/follow/ior_ehime)](http://twitter.com/ior_ehime)
 
 # GitHub Information
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iori-kosen&count_private=true&show_icons=true&theme=radical)](https://github.com/iori-kosen/github-readme-stats)
