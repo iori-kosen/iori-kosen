@@ -4,13 +4,10 @@ I'm Kochi National College of Technology Students
 I'm studying programming now.  
 
 # My Twitter
-[![My Qiita posts](https://img.shields.io/twitter/follow/ior_ehime?label=Twitter&logo=twitter&style=flat)](http://twitter.com/ior_ehime)
-# My Qiita posts
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/mikkame/posts.svg)](http://qiita.com/mikkame)
-# My Qiita contributions
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/mikkame/contributions.svg)](http://qiita.com/mikkame)
-# My Qiita followers
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/mikkame/followers.svg)](http://qiita.com/mikkame)
+[![My Qiita posts](https://img.shields.io/twitter/follow/ior_ehime)](http://twitter.com/ior_ehime)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/iori-kosen/posts.svg)](http://qiita.com/iori-kosen)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/iori-kosen/contributions.svg)](http://qiita.com/iori-kosen)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/iori-kosen/followers.svg)](http://qiita.com/iori-kosen)
 
 
 # GitHub Information
