@@ -3,7 +3,11 @@
 I'm Kochi National College of Technology Students  
 I'm studying programming now.  
 
-[![Twitter](https://img.shields.io/twitter/follow/ior_ehime)](http://twitter.com/ior_ehime)
+<p align="left">
+  <a href="http://twitter.com/ior_ehime">
+    <img height="20" src="https://img.shields.io/twitter/follow/ior_ehime?label=Twitter&logo=twitter&style=flat" />
+  </a>
+</p>
 
 # GitHub Information
 <p align="left"> 
